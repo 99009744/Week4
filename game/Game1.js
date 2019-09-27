@@ -103,7 +103,7 @@
 	document.write ("Wil je er een moederboord bij?"+" "+moederboord+"<br>")
 	document.write ("Wil je er een cpu bij?"+" "+cpu+"<br>")
 	document.write ("Wil je er een ram bij?"+" "+ram+"<br>")
-	document.write ("Hoeveel gigabite?"+" "+gigabite+"gigabite"+"<br>")
+	document.write ("Hoeveel gigabyte?"+" "+gigabite+"gigabyte"+"<br>")
 	document.write ("Wil je er een voeding bij?"+" "+voeding+"<br>")
 	document.write ("Wil je er een gpu bij?"+" "+gpu+"<br>")
 	document.write ("Wil je er een koeling bij?"+" "+koeling+"<br>")
