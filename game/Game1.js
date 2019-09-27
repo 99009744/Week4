@@ -13,9 +13,9 @@
 				ram = prompt ("Wil je ram geheugen in je pc? \n kies ja of nee")
 				if (ram == "ja"){
 					alert ("Deze zijn ook erg belangrijk voor je game pc!")
-					gigabite = (prompt ("Hoeveel gigabite ram geheugen wil je er in hebben? \n geef aan hoeveel gigabite je wilt"))
-					if (Number(gigabite) >7){
-						alert ("Goed bezig! 8 gigabite is het minimale voor een goede game pc!")
+					gigabyte = (prompt ("Hoeveel gigabyte ram geheugen wil je er in hebben? \n geef aan hoeveel gigabite je wilt"))
+					if (Number(gigabyte) >7){
+						alert ("Goed bezig! 8 gigabyte is het minimale voor een goede game pc!")
 						voeding = prompt("Wil je een voeding in je pc? \n kies ja of nee")
 						if (voeding == "ja"){
 							alert ("Deze heb je zeker nodig hoe ga je anders je pc op het stroom aansluiten!")
